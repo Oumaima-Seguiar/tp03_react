@@ -1,0 +1,52 @@
+
+body{
+    border-radius: 90px;
+    background: #C5D4EB;
+
+    width: 50%;
+   
+}
+div{
+    background-color: #f4d6d6;
+    width: 400px;
+    margin: auto;
+    height: 100%;
+    padding-bottom: 10px;
+    padding-top: 1px;
+    margin-top: 30px;
+    border-radius: 77px;
+    text-align: center;
+}
+h1{
+    color:#00609C ;
+    
+    text-transform: uppercase;
+    font-family: cursive;
+}
+input{
+    border-radius: 8px ;
+    border-style: double;
+    border-color: #00609C;
+    padding: 10px;
+}
+
+.btna{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 4px;
+    width: 100px;
+    background: #C5D4EB;
+}
+.btn{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 4px;
+    width: 100px;
+    background: #C5D4EB;
+}
+.btn:hover{
+    background-color: rgba(255, 0, 0, 0.208);
+}
+.btna:hover{
+    background-color: rgba(0, 128, 0, 0.336);
+}
